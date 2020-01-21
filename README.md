@@ -11,9 +11,9 @@ https://github.com/markdenardo/new_strategy_f_end
 BACKGROUND<br>
 Oblique Strategies was made in the 70s by Brian Eno and Peter Schmidt, to aide them in the processing of music, ideation, and decision making. A sort of random number generator, the parallel to divination systems like the Tarot or the I-Ching are evident.
 
-This API has the following functionality:
+This project has the following functionality:
 
-CARD A user can randomly read an Oblique Strategy card from the deck of cards (SHOW)(GET) A user can create a new card, which will be added to the deck.(CREATE)(POST) A user can edit any card, which will be changed in the deck.(UPDATE)(PATCH) A user can destroy any card from the deck in that card's individual show page.(DESTROY)(DELETE)
+CARD A user can randomly read an Oblique Strategy from a Ruby on Rails API (SHOW)(GET) A user can create a new card, which will be added to the deck.(CREATE)(POST) A user can edit any card, which will be changed in the deck.(UPDATE)(PATCH) A user can destroy any card from the deck in that card's individual show page.(DESTROY)(DELETE)
 
 NOTE A user can view all the notes assigned to a particular card's show page.(INDEX)(GET) A user can add a note to an individual card's show page.(CREATE)(POST) A user can delete any note, if the user finds that note to be no longer useful.(DELETE)
 
